@@ -1,0 +1,13 @@
+C:\Users\charisse ann ramirez\source\repos\Inventory of Stocks of Dry Goods in Mcdonalds\obj\Debug\Inventory of Stocks of Dry Goods in Mcdonalds.csproj.AssemblyReference.cache
+C:\Users\charisse ann ramirez\source\repos\Inventory of Stocks of Dry Goods in Mcdonalds\obj\Debug\Inventory of Stocks of Dry Goods in Mcdonalds.csproj.SuggestedBindingRedirects.cache
+C:\Users\charisse ann ramirez\source\repos\Inventory of Stocks of Dry Goods in Mcdonalds\obj\Debug\Inventory_of_Stocks_of_Dry_Goods_in_Mcdonalds.Adminform.resources
+C:\Users\charisse ann ramirez\source\repos\Inventory of Stocks of Dry Goods in Mcdonalds\obj\Debug\Inventory_of_Stocks_of_Dry_Goods_in_Mcdonalds.Form1.resources
+C:\Users\charisse ann ramirez\source\repos\Inventory of Stocks of Dry Goods in Mcdonalds\obj\Debug\Inventory_of_Stocks_of_Dry_Goods_in_Mcdonalds.Properties.Resources.resources
+C:\Users\charisse ann ramirez\source\repos\Inventory of Stocks of Dry Goods in Mcdonalds\obj\Debug\Inventory of Stocks of Dry Goods in Mcdonalds.csproj.GenerateResource.cache
+C:\Users\charisse ann ramirez\source\repos\Inventory of Stocks of Dry Goods in Mcdonalds\obj\Debug\Inventory of Stocks of Dry Goods in Mcdonalds.csproj.CoreCompileInputs.cache
+C:\Users\charisse ann ramirez\source\repos\Inventory of Stocks of Dry Goods in Mcdonalds\bin\Debug\Inventory of Stocks of Dry Goods in Mcdonalds.exe.config
+C:\Users\charisse ann ramirez\source\repos\Inventory of Stocks of Dry Goods in Mcdonalds\bin\Debug\Inventory of Stocks of Dry Goods in Mcdonalds.exe
+C:\Users\charisse ann ramirez\source\repos\Inventory of Stocks of Dry Goods in Mcdonalds\bin\Debug\Inventory of Stocks of Dry Goods in Mcdonalds.pdb
+C:\Users\charisse ann ramirez\source\repos\Inventory of Stocks of Dry Goods in Mcdonalds\obj\Debug\Inventory of Stocks of Dry Goods in Mcdonalds.exe
+C:\Users\charisse ann ramirez\source\repos\Inventory of Stocks of Dry Goods in Mcdonalds\obj\Debug\Inventory of Stocks of Dry Goods in Mcdonalds.pdb
+C:\Users\charisse ann ramirez\source\repos\Inventory of Stocks of Dry Goods in Mcdonalds\obj\Debug\Inventory_of_Stocks_of_Dry_Goods_in_Mcdonalds.Userform.resources
